@@ -1,0 +1,28 @@
+name: The Westroads Market
+favicon: null
+layout_spectrum: 0.04096850845962763
+typography_spectrum: 0.5719788107089698
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7235372941941023
+  lightness: 0.15009043109603226
+  saturation: 0.7131578321568668
+  rhythmicContrast: 0.4322477178648114
+purpose: []
